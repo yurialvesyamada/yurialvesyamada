@@ -4,6 +4,8 @@
 **yurialvesyamada/yurialvesyamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesyamada&theme=blue-green)
+
 #### Techs
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
