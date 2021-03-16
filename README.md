@@ -1,16 +1,14 @@
 ## Hello World! 👋
-### Projetos Recode Pro 
+## Projetos Recode Pro 
 
+```github
 [GitHub Pages](https://yurialvesyamada.github.io/infotec-react2.0/).
+```
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yurialvesyamada)
 ](https://github.com/yurialvesyamada)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-alves-yamada-804076188/)](https://www.linkedin.com/in/yuri-alves-yamada-804076188/)
-
-```txt
-Hello
-```
 
 
 #### Tecnologias que Utilizo
