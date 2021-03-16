@@ -27,3 +27,6 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesyamada&theme=blue-green)
 
+
+### Visitor count:
+![Visitor Count](https://profile-counter.glitch.me/yurialvesyamada/count.svg)
