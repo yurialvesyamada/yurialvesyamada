@@ -1,7 +1,7 @@
 ## Hello World! 👋
 ### Projetos Recode Pro 
 
-![[GitHub] (https://github.com/yurialvesyamada)]
+![GitHub] (https://github.com/yurialvesyamada)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yurialvesyamada)
 ](https://github.com/yurialvesyamada)
