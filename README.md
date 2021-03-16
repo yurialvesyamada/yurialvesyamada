@@ -1,9 +1,7 @@
 ## Hello World! 👋
 ## Projetos Recode Pro 
 
-```github
 [GitHub Pages](https://yurialvesyamada.github.io/infotec-react2.0/).
-```
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yurialvesyamada)
 ](https://github.com/yurialvesyamada)
