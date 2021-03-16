@@ -7,10 +7,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-alves-yamada-804076188/)](https://www.linkedin.com/in/yuri-alves-yamada-804076188/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yurialvesyamada&theme=blue-green)](https://github.com/yurialvesyamada/github-readme-stats)
-
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesyamada&theme=blue-green)
 
 #### Tecnologias que Utilizo
 
@@ -24,3 +20,10 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yurialvesyamada&theme=blue-green)](https://github.com/yurialvesyamada/github-readme-stats)
+
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesyamada&theme=blue-green)
+
