@@ -2,7 +2,9 @@
 
 
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yurialvesyamada)
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yurialvesyamada)]
+(https://github.com/yurialvesyamada)
+
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-alves-yamada-804076188/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yurialvesyamada&theme=blue-green)](https://github.com/yurialvesyamada/github-readme-stats)
